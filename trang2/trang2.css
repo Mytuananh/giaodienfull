@@ -129,11 +129,12 @@
     width: 86vh;
 }
 .body-3-3-1{
-    height: 25vh;
+    height: 30vh;
     width: 86vh;
+    padding: 1vh 0.5vh 1vh 0.5vh;
 }
 .body-3-3-2{
-    height: 50vh;
+    height: 45vh;
     width: 86vh;
     display: flex;
 }
@@ -144,13 +145,13 @@
 }
 .body-3-0{
     width: 43vh;
-    height: 50vh;
-    padding: 4vh 1.5vh 4vh 1vh ;
+    height: 45vh;
+    padding: 1vh 1.5vh 4vh 1vh ;
 }
 .body-3-0-1{
     width: 43vh;
-    height: 50vh;
-    padding: 4vh 1.5vh 4vh 1vh ;
+    height: 45vh;
+    padding: 1vh 1.5vh 4vh 1vh ;
 }
 .body-title-3-3-2-1{
     width: 35vh;
