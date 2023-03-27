@@ -4,18 +4,19 @@
     height: 8vh;
     background-color: rgba(0, 0, 255, 0.8);
     padding: 0.2vh;
-    border: 1px solid;
+}
+.body-qlct-logo-1{
+    width: 4%;
+    height: 100%;
 }
 .body-qlct-logo-1 img{
-    width: 8vh;
+    width: 100%;
     height: 100%;
-    border: 1px solid;
 }
 .body-qlct-title-1{
-    width: 125vh;
+    width: 65%;
     height: 100%;
     text-align: left;
-    border: 1px solid;
 }
 .body-qlct-title-1-1{
     margin-top: 1vh;
@@ -32,8 +33,7 @@
     height: 2.5vh;
 }
 .body-qlct-user-ava{
-    border: 1px solid;
-    width: 52vh;
+    width: 31%;
     display: flex;
     height: 100%;
 }
@@ -53,18 +53,18 @@
 .body-qlct-2{
     display: flex;
     border: 1px solid;
-    height: 89vh;
+    height: 88vh;
     width: 100%;
 }
 .body-qlct-2-1{
-    width: 30vh;
-    height: 89vh;
+    width: 15%;
+    height: 88vh;
     background-color: #dfe6e9;
     border-right: 5px solid #6c5ce7;
 }
 .body-qlct-2-2{
-    width: 153vh;
-    height: 89vh;
+    width:85%;
+    height: 88vh;
     border: 1px solid orange;
     padding: 0;
     margin: 0;
@@ -72,13 +72,13 @@
     font-family: "Poppins", sans-serif;
 }
 .qlct-1{
-    width: 30vh;
+    width: 100%;
     height: 7.5vh;
 }
 .qlct-1-1{
     border: 1px solid;
     margin: 1vh;
-    width: 28vh;
+    width: 90%;
     height: 0.1vh;
     background-color: darkblue;
 }
@@ -91,102 +91,102 @@
 .qlct-1-3{
     border: 1px solid;
     margin: 1vh;
-    width: 28vh;
+    width: 90%;
     height: 0.1vh;
     background-color: darkblue;
 }
 .qlct-2{
-    width: 29.5vh;
+    width: 99%;
     height: 10vh;
     border: 2px solid;
     border-radius: 1vh;
-    color: #636e72;
-    background-color: #b2bec3;
+    color: #ffffff;
+    background-color: rgb(41, 49, 96);
 }
 .qlct-2-1{
     font-weight: bold;
     text-align: center;
     margin: 3.7vh 1vh 3.7vh 1vh;
     font-size: 2vh;
-    color: #2d3436;
+    color: #ffffff;
 }
 .qlct-3{
-    width: 29.5vh;
+    width: 99%;
     height: 10vh;
     border: 2px solid;
     border-radius: 1vh;
-    color: #636e72;
-    background-color: #b2bec3;
+    color: #ffffff;
+    background-color: rgb(41, 49, 96);
 }
 .qlct-3-1{
     font-weight: bold;
     text-align: center;
     margin: 3.7vh 1vh 3.7vh 1vh;
     font-size: 2vh;
-    color: #2d3436;
+    color: #ffffff;
 }
 .qlct-4{
-    width: 29.5vh;
+    width: 99%;
     height: 10vh;
     border: 2px solid;
     border-radius: 1vh;
-    color: #636e72;
-    background-color: #b2bec3;
+    color: #ffffff;
+    background-color: rgb(41, 49, 96);
 }
 .qlct-4-1{
     font-weight: bold;
     text-align: center;
     margin: 3.7vh 1vh 3.7vh 1vh;
     font-size: 2vh;
-    color: #2d3436;
+    color: #ffffff;
 }
 .qlct-5{
-    width: 29.5vh;
+    width: 99%;
     height: 10vh;
     border: 2px solid;
     border-radius: 1vh;
-    color: #636e72;
-    background-color: #b2bec3;
+    color: #ffffff;
+    background-color: rgb(41, 49, 96);
 }
 .qlct-5-1{
     font-weight: bold;
     text-align: center;
     margin: 3.7vh 1vh 3.7vh 1vh;
     font-size: 1.7vh;
-    color: #2d3436;
+    color: #ffffff;
 }
 .qlct-6{
-    width: 29.5vh;
+    width: 99%;
     height: 10vh;
     border: 2px solid;
     border-radius: 1vh;
-    color: #636e72;
-    background-color: #b2bec3;
+    color: #ffffff;
+    background-color: rgb(41, 49, 96);
 }
 .qlct-6-1{
     font-weight: bold;
     text-align: center;
     margin: 3.7vh 1vh 3.7vh 1vh;
     font-size: 2vh;
-    color: #2d3436;
+    color: #ffffff;
 }
 .qlct-7{
-    width: 29.5vh;
+    width: 99%;
     height: 10vh;
     border: 2px solid;
     border-radius: 1vh;
-    color: #636e72;
-    background-color: #b2bec3;
+    color: #ffffff;
+    background-color: rgb(41, 49, 96);
 }
 .qlct-7-1{
     font-weight: bold;
     text-align: center;
     margin: 3.7vh 1vh 3.7vh 1vh;
     font-size: 2vh;
-    color: #2d3436;
+    color: #ffffff;
 }
 .side-qlct-1{
-    height: 89vh;
+    height: 88vh;
     width: 0;
     position: fixed;
     z-index: 1;
@@ -242,22 +242,21 @@
     width: 30vh;
     height: 4vh;
 }
-.search-1 input, button{
-    border-radius: 3vh;
-    vertical-align: center;
-    height: 3vh;
-    margin: 0.2vh;
-}
 .search-1 input{
+    border-radius: 3vh;
+    height: 3vh;
     margin-left: 1vh;
-    width: 22vh;
+    width: 70%;
     background-color: #ffffff;
 }
 .search-1 button{
-    background-color: rgba(108, 92, 231, 0.27);
+    border-radius: 6vh;
+    width: 4vh;
+    height: 4vh;
+    background-color: cornflowerblue;
 }
 .side-qlct-1-his{
-    height: 89vh;
+    height: 88vh;
     width: 0;
     position: fixed;
     z-index: 1;
@@ -313,7 +312,7 @@
     background-color: #fff;
     cursor: pointer;
     transition: all 0.5s ease;
-    border: 1px solid;
+    border: 2px solid orange;
     height: 3vh;
     font-weight: bold;
 }
@@ -327,7 +326,7 @@
 .tab-content {
     width: 100%;
     height: 85vh;
-    border: 1px solid;
+    border: 2px solid orange;
 }
 .tab-pane {
     color: #333;
@@ -339,7 +338,7 @@
 .menu-1{
     width: 100%;
     height:4vh;
-    border-bottom: 1px solid;
+    border-bottom: 2px solid orange;
     display: flex;
 }
 .crud{
@@ -395,8 +394,7 @@
 }
 .content-1{
     width: 100%;
-    height:81vh;
-    border: 1px solid;
+    height:80vh;
 }
 .content-1-1{
     box-sizing: border-box;
@@ -405,7 +403,7 @@
     overflow: auto;
     width: 100%;
     height: 50%;
-    border: 1px solid;
+    border-bottom: 2px solid;
     font-family: Helvetica, serif;
     -webkit-font-smoothing: antialiased;
 }
@@ -521,8 +519,23 @@
     }
 }
 .content-1-2{
-    overflow: auto;
     width: 100%;
     height: 50%;
-    border: 1px solid;
+}
+.content-1-2-a{
+    text-align: center;
+    font-weight: bold;
+    text-decoration-line: underline;
+}
+.content-1-2-b{
+    height:36vh;
+    width: 80vh;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 1vh;
+}
+.content-1-2-b img{
+    height: 36vh;
+    width: 80vh;
+    border-radius: 1vh;
 }
